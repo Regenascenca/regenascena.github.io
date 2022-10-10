@@ -1,2 +1,0 @@
-# regenascenca.github.io
-website
