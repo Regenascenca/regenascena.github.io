@@ -1,0 +1,20 @@
+.linhas {
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    right: 0;
+}
+
+/* linha reta preta */
+.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+/*linha trajecada preta*/
+.st2{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:10,15;}
+/*linha pontilhada preta*/
+.st3{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,15;}
+/*linha de base, transparente (o objetivo é aumentar a área clicável)*/
+.st4{fill:none;stroke:#ffffff;stroke-width:15;stroke-opacity:'0.0';}
+
+svg a:hover line {
+    stroke-width: 3;
+    stroke: #c9c8c8;
+}
