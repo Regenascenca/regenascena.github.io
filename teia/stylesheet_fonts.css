@@ -5,7 +5,7 @@ p, h1{
 
 .header {
 font-size:36px;
-writing-mode: sideways-lr;
+writing-mode: vertical-lr;
 position: fixed;
 top: 8%;
 }
