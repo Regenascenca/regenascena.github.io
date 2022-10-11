@@ -69,11 +69,3 @@ body {
     position: relative;
     top: 20px
 }
-
-#g {
-    width: 290px;
-    grid-column: 4/5;
-    grid-row: 4/5;
-    justify-self: center;
-    align-self: end;
-}
