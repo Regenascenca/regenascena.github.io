@@ -10,68 +10,30 @@ position: fixed;
 top: 8%;
 }
 
-.e36 {
-text-align: left;
-font-size: 36px;
-}
+.e36 {text-align: left; font-size: 36px;}
 
-.c36 {
-text-align: center;
-font-size: 36px;
-}
+.c36 {text-align: center; font-size: 36px;}
 
-.c35 {
-    text-align: center;
-    font-size: 35px;
-}
+.c35 {text-align: center; font-size: 35px;}
 
-.c32 {
-    text-align: center;
-    font-size: 32px;
-}
+.c32 {text-align: center; font-size: 32px;}
 
-.c30 {
-    text-align: center;
-    font-size: 30px;
-}
+.c30 {text-align: center; font-size: 30px;}
 
-.c28 {
-    text-align: center;
-    font-size: 28px;
-}
+.c28 {text-align: center; font-size: 28px;}
 
-.e28 {
-    text-align: justify;
-    font-size: 28px;
-}
+.e28 {text-align: justify; font-size: 28px;}
 
-.c26 {
-    text-align: center;
-    font-size: 26px;
-}
+.d28 {text-align: right; font-size: 28px;}
 
-.e24 {
-text-align: justify;
-font-size: 22px;
-}
+.c26 {text-align: center; font-size: 26px;}
 
-.c24 {
-text-align: center;
-font-size: 22px;
-}
+.e24 {text-align: justify; font-size: 22px;}
 
-.d24 {
-    text-align: right;
-    font-size: 22px;
-}
+.c24 {text-align: center; font-size: 22px;}
 
+.d24 {text-align: right; font-size: 22px;}
 
-.e20 {
-    text-align: left;
-    font-size: 20px;
-}
+.e20 {text-align: left; font-size: 20px;}
 
-.c18 {
-text-align: center;
-font-size: 18px;
-}
+.c18 {text-align: center; font-size: 18px;}
