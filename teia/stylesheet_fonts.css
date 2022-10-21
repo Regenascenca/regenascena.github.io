@@ -4,10 +4,10 @@ p, h1{
 }
 
 .header {
-font-size:36px;
-writing-mode: vertical-lr;
-position: fixed;
-top: 8%;
+    font-size:36px;
+    writing-mode: vertical-lr;
+    position: fixed;
+    top: 8%;
 }
 
 .e36 {text-align: left; font-size: 36px;}
