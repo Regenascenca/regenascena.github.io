@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Markazi Text'; text-align: center; font-size: 36px;
+    position: relative; 
+    margin-left: auto; margin-right: auto; margin-top: 5%;
+    left: 0; right: 0;
+}
+
+.texto {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    font-family: 'Markazi Text'; text-align: justify; font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+.citacao {
+    font-family: 'Markazi Text'; text-align: justify; font-size: 3.5em;
+    line-height: 1em;
+    margin: auto;
+    margin-top: 3%;
+    margin-left: 45%;
+}

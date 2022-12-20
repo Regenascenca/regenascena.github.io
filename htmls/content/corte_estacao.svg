@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="middleground">
+	<line class="st0" x1="1420.02" y1="451.32" x2="1314.13" y2="451.32"/>
+	<line class="st0" x1="1420.02" y1="674.2" x2="1420.02" y2="451.32"/>
+	<line class="st0" x1="1314.13" y1="451.32" x2="1314.13" y2="674.2"/>
+	<line class="st0" x1="1314.13" y1="688.11" x2="1420.02" y2="688.11"/>
+</g>
+<g id="Layer_04">
+	<line class="st0" x1="1314.13" y1="674.2" x2="1314.13" y2="688.11"/>
+	<line class="st0" x1="1420.02" y1="674.2" x2="1420.02" y2="688.11"/>
+	<polyline class="st1" points="1108.46,610.43 1438.69,610.47 1550.46,620.06 1550.46,606.52 1438.69,596.94 1108.47,596.94 	"/>
+	<polyline class="st1" points="1108.46,530.59 1438.69,530.64 1550.46,540.23 1550.46,526.69 1438.69,517.1 1108.47,517.1 	"/>
+	<polygon class="st2" points="1108.45,610.43 1108.45,611.67 1084.27,614.32 846.97,641.32 846.97,688.11 570.82,688.11 
+		570.82,640.85 313.92,611.67 313.94,444.7 323.64,444.61 1108.47,444.61 1108.46,518.28 	"/>
+</g>
+<g id="background">
+	<line class="st0" x1="1262.24" y1="688.11" x2="1168.64" y2="688.11"/>
+	<path class="st0" d="M1550.46,620.06c-47.14,11.82-90.62,22.51-130.43,32.05"/>
+	<path class="st0" d="M1314.13,659.82c-48.19,10.52-96.68,19.95-145.49,28.29"/>
+	<path class="st0" d="M1493.68,615.19c-24.47,6.84-49.02,13.38-73.66,19.64"/>
+	<path class="st0" d="M1314.13,581.17c-25.47,5.56-51.03,10.81-76.67,15.77"/>
+	<path class="st0" d="M1493.68,536.54c-24.47,6.84-49.02,13.38-73.66,19.64"/>
+	<path class="st0" d="M1550.46,541.41c-47.14,11.82-90.62,22.51-130.43,32.05"/>
+	<path class="st0" d="M1314.13,676.77c-18.47,4.14-35.76,7.92-51.89,11.34"/>
+</g>
+</svg>
